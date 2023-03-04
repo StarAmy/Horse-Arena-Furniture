@@ -43,7 +43,7 @@
 		"Item":  
 		{
 			"Type": "DGAItem",
-			"Value": "staramy.petfurniture/Trot Pole"
+			"Value": "StarAmy.Arena/Trot Pole"
 		}
 	},
 	{
@@ -65,7 +65,7 @@
 		"Item":  
 		{
 			"Type": "DGAItem",
-			"Value": "staramy.petfurniture/Arena Cone"
+			"Value": "StarAmy.Arena/Arena Cone"
 		}
 	},
 	{
@@ -87,7 +87,7 @@
 		"Item":  
 		{
 			"Type": "DGAItem",
-			"Value": "staramy.petfurniture/Arena Barrel"
+			"Value": "StarAmy.Arena/Arena Barrel"
 		}
 	},
 	{
@@ -194,7 +194,7 @@
 		"Item":  
 		{
 			"Type": "DGAItem",
-			"Value": "staramy.petfurniture/Dressage Marker"
+			"Value": "StarAmy.Arena/Dressage Marker"
 		}
 	},
 ]
